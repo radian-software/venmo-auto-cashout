@@ -1,4 +1,5 @@
 .pdm.toml
+__pycache__
 __pypackages__
 .pdm-python
 .envrc
